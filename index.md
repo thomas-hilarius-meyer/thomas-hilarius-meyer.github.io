@@ -9,7 +9,7 @@ und erzählte Zeit.
 
 ## Charakterzüge
 
-- ängstlich
-- schüchtern
-- liebt Wagner-Opern
+* ängstlich
+* schüchtern
+* liebt Wagner-Opern
 
