@@ -15,3 +15,6 @@ und erzählte Zeit.
 
 > Aber womit sollte ich kauen, wenn ich
 > Dreißig bin...
+
+
+<img src="hanno.jpg"/> 
