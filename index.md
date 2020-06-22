@@ -13,3 +13,5 @@ und erzählte Zeit.
 * schüchtern
 * liebt Wagner-Opern
 
+> Aber womit sollte ich kauen, wenn ich
+> Dreißig bin...
