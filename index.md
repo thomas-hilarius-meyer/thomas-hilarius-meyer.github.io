@@ -7,4 +7,9 @@ Besonders toll ist ein Schultag Hannos, der in allen Einzelheiten beschreiben wi
 und den zu lesen ungefähr einen Tag dauert - also entsprechen sich Erzählzeit
 und erzählte Zeit.
 
+## Charakterzüge
+
+- ängstlich
+- schüchtern
+- liebt Wagner-Opern
 
